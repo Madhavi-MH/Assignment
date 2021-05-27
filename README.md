@@ -1,4 +1,4 @@
 # Assignment
 Convolution Neural Network Assignment
-Predictions Assignment
-Things Data
+,Predictions Assignment
+and Things Data
